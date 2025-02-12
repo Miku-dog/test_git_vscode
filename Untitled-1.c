@@ -16,8 +16,7 @@ int main() {
 
     // 访问结构体成员
     printf("Name: %s, Age: %d\n", personptr->name, personptr->age);
-    printf("daxiao:%d", sizeof(personptr));
-
+    printf("daxiao:%d/n adadad", sizeof(personptr));
 
 
     return 0;
