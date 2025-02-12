@@ -18,10 +18,7 @@ int main() {
     printf("Name: %s, Age: %d\n", personptr->name, personptr->age);
     printf("daxiao:%d", sizeof(personptr));
 
-    {
-        /* data */
-    };
-    
+
 
     return 0;
 }
